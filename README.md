@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**osamede85/osamede85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-👋 Hi, I’m Osamede Izevbigie, also known as @Osamede5
+👋 Hi, I’m Osamede Izevbizua, also known as Ede
 👀 I harness the power of data to solve problems and drive insights for organizations.
 🌱 I'm a passionate Data Analyst, skilled in unraveling complex datasets.
 🤝 I’m open to collaborating on projects using PYTHON, SQL, EXCEL, and DATA VISUALIZATION tools like POWER BI, LOOKER, or TABLEAU.
